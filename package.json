@@ -1,6 +1,7 @@
 {
 	"name": "npm-package-template-lixelv",
 	"version": "0.0.1",
+	"licence": "MIT",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run prepack",
